@@ -7,6 +7,12 @@
 .App{
   margin: 80px;
 }
+.App > h1 {
+  text-align: center;
+  color: brown;
+  text-shadow: 5px 5px 5px #000;
+  padding: 20px;
+}
 h5{
   overflow: hidden;
 }

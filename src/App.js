@@ -29,6 +29,8 @@ function App() {
   return (
     <div className="App">
 
+      <h1>Accordion Project</h1>
+
       {/* Rendering the Data in the Front-End */}
       {
         data.map((item,index)=>{
